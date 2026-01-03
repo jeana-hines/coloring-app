@@ -1,6 +1,6 @@
 # Digital Coloring Book
 
-A responsive, web-based coloring application built with React and Vite. This app features a layered canvas system that allows users to paint under line art, zoom/pan for detail work, and save their progress locally.
+A responsive, web-based coloring application built with React and Vite. This app features a layered canvas system that allows users to paint under line art, zoom/pan for detail work, and save their progress locally. Try it out here: https://jh-data.com/colorapp2/
 
 ## Features
 
